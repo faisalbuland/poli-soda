@@ -1,0 +1,10 @@
+applicationLogic.comunity
+applicationLogic.conference
+applicationLogic.conference.trend
+applicationLogic.graph
+applicationLogic.graph.utils
+applicationLogic.journal
+applicationLogic.journal.trend
+applicationLogic.statistics
+applicationLogic.statistics.utils
+presentation

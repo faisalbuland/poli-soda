@@ -1,0 +1,11 @@
+dblp.social
+dblp.social.exceptions
+dblp.social.hibernate
+dblp.social.hibernate.entities
+dblp.social.importer
+dblp.social.loader
+dblp.social.preparser
+dblp.social.runner
+dblp.social.tests
+dblp.social.updater
+dblp.social.utility

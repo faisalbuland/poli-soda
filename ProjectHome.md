@@ -1,0 +1,2 @@
+The project main purpose is to parse and import into a mysql database the informations stored in the DBLP XML document.
+The project is written in Java, Hibernate is used in order to map entities into database tables.
